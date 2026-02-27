@@ -1,0 +1,10 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+huggingface_hub
+faiss-cpu
+pymupdf
+sentence-transformers
+tiktoken
+langgraph
