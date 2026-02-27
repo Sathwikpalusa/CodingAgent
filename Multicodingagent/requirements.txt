@@ -8,3 +8,4 @@ pymupdf
 sentence-transformers
 tiktoken
 langgraph
+langchain_ollama
