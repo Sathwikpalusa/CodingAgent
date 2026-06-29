@@ -93,7 +93,7 @@ def call_llm_with_retry(prompt: str) -> str:
 ## Running locally
 
 ```bash
-git clone https://github.com/Sathwikpalusa/multi-agent-coding-system
+git clone https://github.com/Sathwikpalusa/CodingAgent
 cd multi-agent-coding-system
 pip install -r requirements.txt
 
