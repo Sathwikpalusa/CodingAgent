@@ -97,8 +97,7 @@ git clone https://github.com/Sathwikpalusa/multi-agent-coding-system
 cd multi-agent-coding-system
 pip install -r requirements.txt
 
-# Add your OpenAI API key
-echo "OPENAI_API_KEY=your_key_here" > .env
+
 
 # Run
 streamlit run app.py
